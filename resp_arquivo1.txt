@@ -1,0 +1,5 @@
+Contagem de linhas: (13, 5, 0, 0, 8)
+
+Caracteres mais frequentes: [(' ', 36), ('A', 30), ('E', 22), ('O', 20), ('T', 18), ('S', 16), ('R', 16), ('M', 14), ('N', 13), ('\n', 12)]
+
+Palavras mais frequentes: [('LINHAS', 3), ('ESTE', 2), ('DE', 2), ('ALGUMAS', 2), ('EM', 2), ('BRANCO', 2), ('PARA', 2), ('NÃO', 2), ('É', 1), ('UM', 1)]

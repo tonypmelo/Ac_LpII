@@ -1,0 +1,12 @@
+Este é um arquivo de teste
+Com algumas linhas escritas
+
+
+e algumas linhas em branco
+para testar se o programa conta as linhas
+em branco corretamente ou não
+
+Este texto não tem pontuação de propósito
+para facilitar a contagem das palavras num primeiro
+
+momento
